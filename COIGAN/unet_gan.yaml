@@ -1,0 +1,6 @@
+# @package _group_
+kind: unet_gan
+n_channels: 6
+n_classes: 3
+bilinear: false
+sigm_out: false
